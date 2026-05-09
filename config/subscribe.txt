@@ -2,6 +2,11 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+https://raw.githubusercontent.com/tianli1680/newtv/refs/heads/main/tv.m3u
+https://123.tv1288.xyz/sm.txt
+https://raw.githubusercontent.com/tianli1680/chinatv/refs/heads/main/yifa.txt
+https://raw.giteeusercontent.com/wujiang-cowherd-baby_0/dianying/raw/master/daili.txt?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJkYWlsaS50eHQiLCJ1aWQiOjEzNzk1MDMxLCJwaWQiOjQ1NDMzNTk1LCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTQydC0wMDIiLCJycCI6InJlcG9zLzIxLzQyLzIxNDJhZjlmYmM3YTAwOTVlOTJkZTU4OGNjN2M1NmIyYjY3YmVlNGM5YzczZjY4NWNkNjcxMzcxMGI3ZmQxNDUuZ2l0IiwiaXNwIjp0cnVlLCJleHBpcmVfYXQiOjE3Nzc0NzA2MDB9&signature=aY26whPhdUujaP6mLxOKr5U7gkDA54qIv1CDb596xxY
+https://cnb.cool/tianli1680/live/-/git/raw/main/youxi.txt
 
 
 
