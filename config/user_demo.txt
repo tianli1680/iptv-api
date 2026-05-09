@@ -1,4 +1,4 @@
-#央视频道
+央视频道,#genre#
 CCTV1,
 CCTV2,
 CCTV3,
@@ -31,7 +31,7 @@ CGTNFR,
 CGTNRU,
 CGTNSP,
 
-#卫视频道
+卫视频道,#genre#
 北京卫视,
 东方卫视,
 浙江卫视,
@@ -77,7 +77,7 @@ CGTNSP,
 海南卫视,
 青海卫视,
 
-#影视频道
+影视频道,#genre#
 CHC影迷电影,
 CHC动作电影,
 CHC家庭影院,
@@ -99,7 +99,7 @@ CHC家庭影院,
 邵氏影院,
 经典音乐,
 
-#爱奇频道
+爱奇频道,#genre#
 好片速递频道,
 电影大片频道,
 古装妖魔频道,
@@ -120,14 +120,14 @@ CHC家庭影院,
 古装大剧频道,
 爱情生活频道,
 
-#NBA赛评
+NBA赛评,#genre#
 
-#凤凰频道
+凤凰频道,#genre#
 凤凰中文,
 凤凰资讯,
 凤凰香港,
 
-#游戏赛事
+游戏赛事,#genre#
 B站CS,https://live.ottiptv.cc/bilibili/21622811
 虎牙CS,https://live.ottiptv.cc/huya/483917
 英雄联盟,https://live.ottiptv.cc/bilibili/6
@@ -182,9 +182,9 @@ B站JJ斗地主,https://live.ottiptv.cc/bilibili/22021983
 斗鱼跑跑卡丁车,https://goodiptv.club/douyu/7722576
 斗鱼跑跑卡丁车•手游,https://goodiptv.club/douyu/6672862
 
-#音乐直播
+音乐直播,#genre#
 
-#欣赏音乐
+欣赏音乐,#genre#
 HIFI音乐直播,
 38'6音乐直播,
 舒耳音乐直播,
@@ -220,7 +220,7 @@ BEYOND'抖播,
 湾区电影晚会,
 
 
-#咪视直播,
+咪视直播,#genre#
 晴彩少年,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011525
 晴彩竞技,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011528
 晴彩篮球,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011529
@@ -274,7 +274,7 @@ BEYOND'抖播,
 咪视通-44,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000027691
 咪视通-45,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000031669
 
-#赛事咪咕,
+赛事咪咕,#genre#
 赛事睛彩竞技,
 赛事睛彩篮球,
 赛事睛彩青少,
@@ -317,13 +317,12 @@ BEYOND'抖播,
 赛事咪咕播4k,
 赛事至臻视界,
 
-#电影直播
+电影直播,#genre#
 
-#虎牙影视
+虎牙影视,#genre#
 
 
-#虎牙频道
-
+虎牙频道,#genre#
 放映厅播频道,https://live.ottiptv.cc/huya/11602077
 刘德华播频道,https://live.ottiptv.cc/huya/11342424
 许冠英播频道,https://live.ottiptv.cc/huya/11601972
@@ -388,12 +387,12 @@ BEYOND'抖播,
 怪兽系列频道,https://live.ottiptv.cc/huya/21059554
 杰森斯坦频道,https://live.ottiptv.cc/huya/21059588
 
-#体育-昨天
+体育-昨天,#genre#
 
-#体育-今天
+体育-今天,#genre#
 
-#体育-明天
+体育-明天,#genre#
 
-#电视剧直播
+电视剧直播,#genre#
 
-#纪录片直播
+纪录片直播,#genre#
